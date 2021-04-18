@@ -5,7 +5,7 @@
   const ioseluiz = {
     pronouns: "he" | "him",
     code: ["Javascript", "Java", "PHP", "Pyton"],
-    tools: ["Node", "React", "Flask", "Django", "Docker"],
+    tools: ["Node", "React", "Flask", "Django", "Docker", "MongoDB", "MySQL"],
     }
 ```
 <!--
