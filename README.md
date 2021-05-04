@@ -4,7 +4,7 @@
 ```js
   const ioseluiz = {
     pronouns: "he" | "him",
-    code: ["Javascript", "Java", "PHP", "Pyton"],
+    code: ["Javascript", "Java", "PHP", "Python"],
     tools: ["Node", "React", "Flask", "Django", "Docker", "MongoDB", "MySQL"],
     }
 ```
